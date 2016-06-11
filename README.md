@@ -1,21 +1,44 @@
-# Codinfox-Lanyon
+Worthy - Free Bootstrap Template
+=======================================================================
 
-This is a jekyll template based on [Lanyon](https://github.com/poole/lanyon). See a live demo [here](http://codinfox.github.io).
+Worhty is a Multipurpose One Page Template based on Bootstrap 3 Framework. 
+You can use it for corporate, business and agency webpages as well as 
+portfolio and personal webpages.
 
-Lanyon is an unassuming [Jekyll](http://jekyllrb.com) theme that places content first by tucking away navigation in a hidden drawer. It's based on [Poole](http://getpoole.com), the Jekyll butler.
+If you like the template and find it useful, please help us spread the word :-)
 
-All the configurations are inside either `_config.yml` or `_config.scss`. The options are fairly straightforward. 
+- Theme version: v1.0
+- Release Date: 13 Nov 2014
+- Author: HtmlCoder (http://htmlcoder.me)
+- Contact: http://htmlcoder.me/contact
 
-The theme supports: 
+Live Preview
+=======================================================================
+http://www.htmlcoder.me/preview/worthy/v.1.0
 
-1. Theme colors: you can choose your favorite theme color
-2. Changable sidebar locations
-3. Integration of MathJax, Disqus and Google Analytics
-4. and numerous improvements over original Lanyon
+License
+=======================================================================
+Worthy is released under the Creative Commons Attribution 3.0 License
+https://creativecommons.org/licenses/by/3.0/
 
+Credits
+=======================================================================
 
-## License
+Demo images
+------------------------------------------------------
+- Unsplash by Crew - http://unsplash.com/
 
-Open sourced under the [MIT license](LICENSE.md).
+Fonts
+------------------------------------------------------
+- Font Awesome by Dave Gandy - http://fortawesome.github.io/Font-Awesome/
+- Google Fonts - http://www.google.com/fonts
 
-<3
+Resources
+------------------------------------------------------
+- Bootstrap Framework by @mdo and @fat - http://getbootstrap.com/
+- jQuery - https://jquery.org/
+- jQuery Appear - by bas2k - https://github.com/bas2k/jquery.appear/
+- Modernizr - http://modernizr.com/
+- Animate CSS by Daniel T. Eden - http://daneden.github.io/animate.css/
+- Isotope Jquery plugin by metafizzy.co - http://isotope.metafizzy.co/
+- Backstrech by Scott Robbin - http://srobbin.com/jquery-plugins/backstretch/
